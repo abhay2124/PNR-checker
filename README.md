@@ -4,7 +4,6 @@
 A full-stack web application that allows users to check Indian Railway PNR status by entering a 10-digit PNR number.
 
 ## Features
-
 * Check railway PNR status
 * View train information
 * View source and destination stations
